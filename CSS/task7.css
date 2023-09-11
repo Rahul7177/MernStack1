@@ -37,7 +37,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 120px;
+    width: fit-content;
     background-color: aqua;
     padding: 10px;
 
